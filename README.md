@@ -63,12 +63,9 @@ Explored the dataset to uncover patterns and insights:
 ### 📈 Visualizations
 
 * Distribution of ratings (Histogram)
-* <img width="716" height="524" alt="image" src="https://github.com/user-attachments/assets/da8d49ff-21fa-4fe4-9a29-f999b6f62a04" />
 * Top 10 genres by frequency (Bar Chart)
- <img width="807" height="707" alt="image" src="https://github.com/user-attachments/assets/87fe4721-eca4-469d-aca1-e659c0ac248b" />
 * Average rating by release year (Line Plot)
 * Genre vs. Average Rating (Bar Chart)
- <img width="675" height="546" alt="image" src="https://github.com/user-attachments/assets/054bf2c8-97a4-49a0-b521-3b30d0240c64" />
 * Number of movies released per year (Area Chart)
 * User activity by rating count (Histogram)
 
